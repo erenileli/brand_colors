@@ -1,3 +1,3 @@
 # brandColors project
-npm install
-npm start
+* npm install 
+* n npm start
